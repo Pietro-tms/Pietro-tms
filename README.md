@@ -1,4 +1,3 @@
-## Bem vindo(a) ao meu GitHub!
+# Bem vindo(a) ao meu GitHub!
+## Conheça a minha maneira de fazer software
 
-- Atualmente, estudando desenvolvimento web
-- Cursando Engenharia de Software
