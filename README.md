@@ -71,7 +71,7 @@ Universidade Estadual de Ponta Grossa — UEPG
 
 <p align="left">
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/Pietro-tms">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
