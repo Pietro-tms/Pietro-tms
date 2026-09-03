@@ -4,7 +4,7 @@
 
 Olá! Eu sou **Pietro Strimber**, estudante de **Engenharia de Software** e apaixonado por tecnologia, programação e resolução de problemas.
 
-Atualmente, venho desenvolvendo meus conhecimentos principalmente em **desenvolvimento web**, trabalhando tanto no **Front-end** quanto no **Back-end**. Gosto de transformar ideias em aplicações funcionais, com código organizado, boas práticas e uma experiência de usuário agradável.
+Atualmente, venho desenvolvendo meus conhecimentos principalmente em **desenvolvimento web**, trabalhando tanto no **Front-end** quanto no **Back-end**. Identificar problemas e resolvê-los com software é comigo mesmo.
 
 Estou constantemente estudando novas tecnologias e buscando oportunidades para colocar meus conhecimentos em prática através de projetos pessoais, acadêmicos e profissionais.
 
